@@ -1,0 +1,2 @@
+bertopic==0.17.0
+feedparser==6.0.11
